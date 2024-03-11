@@ -1,0 +1,78 @@
+header {
+    background-color:  rgba(34, 127, 248,0.75) ;
+    width: 100%;
+    height: 15%;
+    position: absolute;
+    top: 0px;
+}
+a.c {
+    text-decoration: none;
+    position: absolute;
+    top:10px    ;
+    right: 25%;
+}
+a.d {
+    text-decoration: none;
+    position: absolute;
+    top:10px    ;
+    right: 22%;
+}
+a.b {
+    text-decoration: none;
+    position: absolute;
+    top:10px    ;
+    right: 18%;
+}
+form.black {
+    position: absolute;
+    bottom: 20em;
+}
+p.op {
+    position: absolute;
+    bottom: 32em;
+    left: 150px;
+    font-size: 20px;
+}
+header.second {
+    width: 100%;
+    height: 13%;
+    background-color: rgba(194, 236, 201, 0.664);
+    position: absolute;
+    top: 120px;
+    font-size: 50px;
+
+}
+img.white {
+    height: 118px;
+}
+p.t {
+    position: absolute;
+    top: 0.1px;
+    left: 200px;
+}
+hr {
+    position: absolute;
+    bottom: 200px;
+    width:100%;
+    border-width:2px;
+    color: black;
+
+}
+footer {
+    background-color:rgba(72, 119, 206, 0.884) ;
+    width: 100%;
+    height: 130px;
+    position: absolute;
+    bottom: 0px;
+}
+p.y {
+    position: absolute;
+    left: 50px;
+    bottom: 140px;
+}
+p.u {
+    font-size: 30px;
+    position: absolute;
+    right: 200px;
+    bottom: 10px;
+}
